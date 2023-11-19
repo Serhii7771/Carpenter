@@ -14,8 +14,9 @@ display: flex;
 
   .page-header{
     width: 100%;
-    height: 84px;
+    height: 420px;
     background-color: black;
+    background-image: url(../images/Столяр-1.jpg);
   }
 
   h1,
