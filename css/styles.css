@@ -15,7 +15,6 @@ display: flex;
   .page-header{
     width: 100%;
     height: 420px;
-    display: block;
     background-color: black;
     background-image: url(../images/Столяр-1.jpg);
   }
@@ -50,4 +49,10 @@ img {
 
 .adres-size {
     font-size: 30px;
+}
+
+.save {
+  color: blueviolet;
+  font-size: 50px;
+  margin: 112px 262px;
 }
